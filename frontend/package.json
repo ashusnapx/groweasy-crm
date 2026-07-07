@@ -1,0 +1,40 @@
+{
+  "name": "groweasy-crm-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.9.1",
+    "@radix-ui/react-dialog": "^1.1.4",
+    "@radix-ui/react-progress": "^1.1.1",
+    "@radix-ui/react-scroll-area": "^1.2.2",
+    "@radix-ui/react-slot": "^1.1.1",
+    "@tanstack/react-table": "^8.21.3",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.18.2",
+    "lucide-react": "^0.468.0",
+    "next": "^16.2.10",
+    "papaparse": "^5.4.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-dropzone": "^14.3.5",
+    "react-hook-form": "^7.54.2",
+    "tailwind-merge": "^2.6.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.10",
+    "@types/papaparse": "^5.3.15",
+    "@types/react": "^19.0.7",
+    "@types/react-dom": "^19.0.3",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.7.3"
+  }
+}

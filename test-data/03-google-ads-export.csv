@@ -1,0 +1,21 @@
+Lead ID,Lead Date,Campaign,Keyword,Match Type,Final URL,Form Field: Email,Form Field: Phone,Form Field: Name,Form Field: Message
+1001,2025-07-01,Real Estate Lead Gen,best apartments in bangalore,Broad,https://example.com/leads,RAJESH.KUMAR@GMAIL.COM,9876543210,Rajesh Kumar,Looking for 2 BHK near Whitefield
+1002,2025-07-01,Property Campaign,flats for sale sarjapur road,Broad,https://example.com/leads,priya.sharma@outlook.com,+91 8765432109,Priya Sharma,
+1003,2025-07-02,Real Estate Lead Gen,villa plots electronic city,Phrase,https://example.com/villa,amit.patel@yahoo.com,8765-432-109,Amit Patel,Need plot with clear title
+1004,2025-07-02,Property Campaign,3 bhk apartment whitefield,Exact,https://example.com/leads,  sneha.reddy@gmail.com  ,7654321098,Sneha Reddy,Budget around 80 lakhs
+1005,2025-07-03,Real Estate Lead Gen,budget homes hsr layout,Broad,https://example.com/budget,,6543210987,Vikram Singh,Only phone available, call me
+1006,2025-07-03,Property Campaign,luxury apartments mumbai,Phrase,https://example.com/luxury,ANJALI.DESAI@COMPANY.IN,+91 6543210987,Anjali Desai,
+1007,2025-07-04,Real Estate Lead Gen,commercial plots pune,Exact,https://example.com/commercial,suresh.menon@gmail.com,,Suresh Menon,Interested in commercial land
+1008,2025-07-04,Property Campaign,2 bhk ready to move,Broad,https://example.com/leads,KAVITA.JOSHI@REDIFFMAIL.COM,+918765432109,Kavita Joshi,Need possession by December
+1009,2025-07-05,Real Estate Lead Gen,independent house chennai,Phrase,https://example.com/villa,manoj.t@gmail.com,7654-321-098,Manoj Tiwari,
+1010,2025-07-05,Property Campaign,apartments near metro station,Exact,https://example.com/leads,deepak.verma@yahoo.com,+91 7654321098,Deepak Verma,Preferably near metro connectivity
+1011,2025-07-06,Real Estate Lead Gen,affordable housing jaipur,Broad,https://example.com/budget,ritu.agarwal@company.in,6543-210-987,Ritu Agarwal,
+1012,2025-07-06,Property Campaign,gated community bangalore,Phrase,https://example.com/leads,sanjay.kulkarni@gmail.com,+916543210987,Sanjay Kulkarni,Already in gated community but want to upgrade
+1013,2025-07-07,Real Estate Lead Gen,premium villa plots,Exact,https://example.com/villa,NANDINI.RAO@OUTLOOK.COM,9871-234-567,Nandini Rao,Looking for villa plot in 1 Cr range
+1014,2025-07-07,Property Campaign,studio apartment pune,Broad,https://example.com/leads,rakesh.c@rediffmail.com,+91 9871234567,Rakesh Chandra,For investment purpose
+1015,2025-07-08,Real Estate Lead Gen,plots near hospital,Phrase,https://example.com/plots,MEENA.K@GMAIL.COM,8761-234-567,Meena Kumari,
+1016,2025-07-08,Property Campaign,premium flats delhi,Exact,https://example.com/luxury,arjun.nair@yahoo.com,+918761234567,Arjun Nair,Budget 1.5 Cr for penthouse
+1017,2025-07-09,Real Estate Lead Gen,row house nagar,Broad,https://example.com/leads,POOJA.M@COMPANY.IN,7651-234-567,Pooja Mishra,Need row house with parking
+1018,2025-07-09,Property Campaign,gated community villa,Phrase,https://example.com/villa,karthik.subramanian@gmail.com,+91 7651234567,Karthik Subramanian,
+1019,2025-07-10,Real Estate Lead Gen,commercial office space,Broad,https://example.com/commercial,SHALINI.P@OUTLOOK.COM,+916541234567,Shalini Pande,Need office space for 50 employees
+1020,2025-07-10,Property Campaign,investment property india,Exact,https://example.com/leads,mohan.das@rediffmail.com,6541-234-567,Mohan Das,Looking for rental yield property

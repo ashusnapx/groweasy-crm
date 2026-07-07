@@ -1,0 +1,21 @@
+Name,Email,Phone,Company,Notes,Status
+Aarav Patel,aarav.patel@gmail.com; aarav.work@infosys.com,9876543210,Infosys,Primary email is personal,Hot Lead
+Vikram Singh,vikram.singh@outlook.com; vikram.s@tcs.com; hr@vikram.com,+919876543210; 8765432109; 022-23456789,TCS,Has 3 emails and 3 phones,New Lead
+Priya Sharma,priya.sharma@yahoo.com,98765-43210; 8765432109,Wipro,Two phone numbers on file,Contacted
+Anjali Desai,anjali.desai@gmail.com; info@anjalidesigns.com,98765 43210,HCL Technologies,Personal and business email,Hot Lead
+Rohit Verma,rohit.verma@company.in,(98765) 43210,Reliance,Single phone format,Contacted
+Sneha Reddy,sneha.reddy@gmail.com,+91 98765 43210,Infosys,Standard format,New Lead
+Manoj Kumar,manoj.kumar@gmail.com,+1 555 123 4567,Google,International number,Hot Lead
+Kavita Joshi,kavita.joshi@outlook.com; kjoshi@amazon.co.uk,+44 7911 123456; +91 9876543210,Amazon,UK and India contacts,Contacted
+Suresh Nair,suresh.nair@gmail.com,98765; 8765432109,TCS,Short code and full number,New Lead
+Deepak Mehta,deepak.mehta@yahoo.com,9876543210 ext 123; 8765432109,Samsung,With extension and backup,Hot Lead
+Rajesh Iyer,rajesh.iyer@company.in,080-23456789,Wipro,Landline number,Contacted
+Meena Kumari,meena.kumari@gmail.com; meena.k@flipkart.com,6000012345,Flipkart,Mobile starting with 6,New Lead
+Sanjay Gupta,sanjay.gupta@outlook.com,7000012345,Ola,Mobile starting with 7,Hot Lead
+Neha Agarwal,neha.agarwal@gmail.com,8000012345,Amazon,Mobile starting with 8,Contacted
+Prakash Rao,prakash.rao@yahoo.com,9000012345,Zomato,Mobile starting with 9,New Lead
+Sunita Devi,sunita.devi@gmail.com,9876543210 / 8765432109,Amazon,Slash separated phones,Hot Lead
+Amit Singh,amit.singh@company.in,9876543210,TCS,Standard single phone,New Lead
+Pooja Bhat,pooja.bhat@gmail.com,9876S43210,Infosys,Typo in phone number,Contacted
+Vishal Mishra,vishal.mishra@outlook.com,,Wipro,Missing phone,New Lead
+Rekha Patil,rekha.patil@yahoo.com,+91-98765-43210,HCL Technologies,Dash with country code,Hot Lead

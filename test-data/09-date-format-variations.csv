@@ -1,0 +1,21 @@
+Name,Email,Created_Date,Follow_Up_Date,Last_Contact,Company,City,Status
+Aarav Patel,aarav.patel@gmail.com,2024-01-15,2024-02-20,2024-01-10,Infosys,Bangalore,Hot Lead
+Vikram Singh,vikram.singh@outlook.com,01/15/2024,02/20/2024,01/10/2024,TCS,Delhi,New Lead
+Priya Sharma,priya.sharma@yahoo.com,15/01/2024,20/02/2024,10/01/2024,Wipro,Mumbai,Contacted
+Anjali Desai,anjali.desai@gmail.com,15.01.2024,20.02.2024,10.01.2024,HCL Technologies,Chennai,Hot Lead
+Rohit Verma,rohit.verma@company.in,2024-01-15 14:30:00,2024-02-20 10:00:00,2024-01-10 16:45:00,Reliance,Mumbai,Contacted
+Sneha Reddy,sneha.reddy@gmail.com,"Jan 15, 2024","Feb 20, 2024","Jan 10, 2024",Infosys,Bangalore,New Lead
+Manoj Kumar,manoj.kumar@gmail.com,15th Jan 2024,20th Feb 2024,10th Jan 2024,Google,Hyderabad,Hot Lead
+Kavita Joshi,kavita.joshi@outlook.com,15/01/24,20/02/24,10/01/24,Amazon,London,Contacted
+Suresh Nair,suresh.nair@gmail.com,2024/01/15,2024/02/20,2024/01/10,TCS,Delhi,New Lead
+Deepak Mehta,deepak.mehta@yahoo.com,45307,45343,45302,Samsung,Mumbai,Hot Lead
+Rajesh Iyer,rajesh.iyer@company.in,2024-01-15T14:30:00+05:30,2024-02-20T10:00:00+05:30,2024-01-10T16:45:00+05:30,Wipro,Bangalore,Contacted
+Meena Kumari,meena.kumari@gmail.com,15-01-2024 14:30:00,20-02-2024 10:00:00,10-01-2024 16:45:00,Flipkart,Hyderabad,New Lead
+Sanjay Gupta,sanjay.gupta@outlook.com,January 15, 2024,February 20, 2024,January 10, 2024,Ola,Mumbai,Hot Lead
+Neha Agarwal,neha.agarwal@gmail.com,20240115,20240220,20240110,Amazon,Delhi,Contacted
+Prakash Rao,prakash.rao@yahoo.com,2024-01,2024-02,2024-01,Zomato,Chennai,New Lead
+Sunita Devi,sunita.devi@gmail.com,2026-12-31,2027-01-15,2026-12-20,Amazon,Mumbai,Hot Lead
+Amit Singh,amit.singh@company.in,01/01/2000,01/02/2000,12/01/1999,TCS,Delhi,New Lead
+Pooja Bhat,pooja.bhat@gmail.com,,,Infosys,Bangalore,Contacted
+Vishal Mishra,vishal.mishra@outlook.com,32/01/2024,45/02/2024,30/01/2024,Wipro,Mumbai,New Lead
+Rekha Patil,rekha.patil@yahoo.com,2024-01-15T14:30:00Z,2024-02-20T10:00:00Z,2024-01-10T16:45:00Z,HCL Technologies,Pune,Hot Lead

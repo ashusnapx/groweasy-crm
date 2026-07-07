@@ -1,0 +1,21 @@
+Subscriber,Email,Mobile,Campaign Source,Tags,Opt-in Date,Status,Segment,Last Active,Engagement Score
+Rajesh Kumar,rajesh.kumar@gmail.com,9876543210,Facebook Ads,vip; property-interest; sarjapur,2025-06-15,converted,leads_on_demand,2025-07-10,92
+Priya Sharma,priya.sharma@outlook.com,8765432109,Google Ads,property-interest; whitefield,2025-06-18,subscribed,meridian_tower,2025-07-08,78
+Amit Patel,amit.patel@yahoo.com;amit.patel@work.com,7654321098,Facebook Ads,vip; investment; electronic-city,2025-06-20,subscribed,eden_park,2025-07-05,65
+Sneha Reddy,sneha.reddy@gmail.com,6543210987,Website,property-interest; hsr-layout,2025-06-22,converted,leads_on_demand,2025-07-09,88
+Vikram Singh,vikram.singh@rediffmail.com,9876123456,Referral,premium; villa; sarjapur,2025-06-25,subscribed,meridian_tower,2025-07-07,45
+Anjali Desai,anjali.d@company.in,7654123456,Google Ads,property-interest,2025-06-28,bounced,eden_park,2025-06-28,12
+Suresh Menon,suresh.menon@gmail.com,+91 8765432109,Facebook Ads,vip; gated-community; whitefield,2025-07-01,subscribed,leads_on_demand,2025-07-10,82
+Kavita Joshi,kavita.joshi@rediffmail.com,8765432109,Website,property-interest; sarjapur,2025-07-03,converted,meridian_tower,2025-07-09,71
+Manoj Tiwari,manoj.t@gmail.com,+91 7654321098,Google Ads,investment; plot,2025-07-05,subscribed,eden_park,2025-07-06,34
+Deepak Verma,deepak.verma@yahoo.com;deepak.v@company.com,6543210987,Facebook Ads,vip; premium; 3bhk; whitefield,2025-07-07,subscribed,leads_on_demand,2025-07-10,89
+Ritu Agarwal,ritu.a@company.in,9871234567,Referral,budget; 2bhk; hsr-layout,2025-07-09,subscribed,meridian_tower,2025-07-08,56
+Sanjay Kulkarni,sanjay.kulkarni@gmail.com,+91 8761234567,Google Ads,property-interest; electronic-city,2025-07-11,unsubscribed,eden_park,2025-07-03,23
+Nandini Rao,nandini.rao@outlook.com,7651234567,Facebook Ads,vip; nri; investment,2025-07-13,subscribed,leads_on_demand,2025-07-10,74
+Rakesh Chandra,rakesh.c@rediffmail.com,6541234567,Website,property-interest; plot; jaipur,2025-07-15,subscribed,meridian_tower,2025-07-09,48
+Meena Kumari,meena.k@gmail.com,+91 6540123456,Google Ads,budget; 2bhk,2025-07-17,unsubscribed,eden_park,2025-07-02,19
+Arjun Nair,arjun.nair@yahoo.com,9869012345,Referral,premium; villa; kochi,2025-07-19,converted,leads_on_demand,2025-07-10,95
+Pooja Mishra,pooja.m@company.in;poorja.m@gmail.com,8759012345,Facebook Ads,property-interest; luxury; 3bhk,2025-07-21,subscribed,meridian_tower,2025-07-08,67
+Karthik Subramanian,karthik.s@gmail.com,+91 7649012345,Google Ads,investment; chennai,2025-07-23,subscribed,eden_park,2025-07-07,41
+Shalini Pande,shalini.p@outlook.com,7648012346,Facebook Ads,property-interest; sarjapur-road,2025-07-25,subscribed,leads_on_demand,2025-07-10,83
+Mohan Das,mohan.das@rediffmail.com,+91 6538012346,Website,vip; gated-community; bangalore,2025-07-27,subscribed,meridian_tower,2025-07-09,76

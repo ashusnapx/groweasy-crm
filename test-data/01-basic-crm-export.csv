@@ -1,0 +1,26 @@
+Name,Email,Phone,Company,City,State,Country,Lead Owner,Status,Source,Created Date,Notes
+Rajesh Kumar,rajesh.kumar@gmail.com,9876543210,Tata Consultancy Services,Mumbai,Maharashtra,India,Amit Sharma,GOOD_LEAD_FOLLOW_UP,leads_on_demand,2025-06-15,Interested in enterprise plan
+Priya Sharma,priya.s@outlook.com,,Infosys Limited,Bangalore,Karnataka,India,Neha Gupta,GOOD_LEAD_FOLLOW_UP,meridian_tower,2025-06-18,Follow up scheduled for next week
+Amit Patel,amit.patel@yahoo.com,8765432109,Wipro Technologies,Hyderabad,Telangana,India,Amit Sharma,DID_NOT_CONNECT,eden_park,2025-06-20,Not responding to calls
+Sneha Reddy,sneha.reddy@gmail.com,7654321098,HCL Technologies,Chennai,Tamil Nadu,India,Neha Gupta,GOOD_LEAD_FOLLOW_UP,leads_on_demand,2025-06-22,Decision maker confirmed
+Vikram Singh,vikram.singh@rediffmail.com,6543210987,Reliance Industries,Pune,Maharashtra,India,Ravi Kumar,BAD_LEAD,meridian_tower,2025-06-25,Budget not approved
+Anjali Desai,anjali.d@company.in,,Tech Mahindra,Mumbai,Maharashtra,India,Amit Sharma,DID_NOT_CONNECT,eden_park,2025-06-28,Wrong number
+Suresh Menon,,9876123456,Godrej Properties,Bangalore,Karnataka,India,Neha Gupta,GOOD_LEAD_FOLLOW_UP,leads_on_demand,2025-07-01,Via referral from existing client
+Kavita Joshi,kavita.joshi@rediffmail.com,8765123456,Infosys Limited,Delhi,Delhi,India,Ravi Kumar,SALE_DONE,meridian_tower,2025-07-03,Contract signed for 50 seats
+Manoj Tiwari,manoj.t@gmail.com,7654123456,Cognizant,Chennai,Tamil Nadu,India,Amit Sharma,DID_NOT_CONNECT,eden_park,2025-07-05,Requested callback next month
+Deepak Verma,deepak.verma@yahoo.com,,Wipro Technologies,Pune,Maharashtra,India,Neha Gupta,GOOD_LEAD_FOLLOW_UP,leads_on_demand,2025-07-07,Very interested in premium plan
+Ritu Agarwal,ritu.a@company.in,6543123456,Larsen & Toubro,Jaipur,Rajasthan,India,Ravi Kumar,SALE_DONE,meridian_tower,2025-07-09,Deal closed 25L annual
+Sanjay Kulkarni,sanjay.k@gmail.com,9871234567,TCS,Bangalore,Karnataka,India,Amit Sharma,BAD_LEAD,eden_park,2025-07-11,Went with competitor
+Nandini Rao,nandini.rao@outlook.com,,HCL Technologies,Hyderabad,Telangana,India,Neha Gupta,DID_NOT_CONNECT,leads_on_demand,2025-07-13,Email bounced
+Rakesh Chandra,rakesh.c@rediffmail.com,8761234567,Infosys Limited,Delhi,Delhi,India,Ravi Kumar,GOOD_LEAD_FOLLOW_UP,meridian_tower,2025-07-15,Technical team evaluation pending
+Meena Kumari,meena.k@gmail.com,7651234567,Tech Mahindra,Mumbai,Maharashtra,India,Amit Sharma,DID_NOT_CONNECT,eden_park,2025-07-17,Out of office until August
+Arjun Nair,arjun.nair@yahoo.com,6541234567,Wipro Technologies,Kochi,Kerala,India,Neha Gupta,SALE_DONE,leads_on_demand,2025-07-19,Payment received
+Pooja Mishra,pooja.m@company.in,,Cognizant,Jaipur,Rajasthan,India,Ravi Kumar,GOOD_LEAD_FOLLOW_UP,meridian_tower,2025-07-21,Competitor pricing comparison
+Karthik Subramanian,karthik.s@gmail.com,9870123456,Reliance Industries,Chennai,Tamil Nadu,India,Amit Sharma,BAD_LEAD,eden_park,2025-07-23,Project cancelled
+Shalini Pande,shalini.p@outlook.com,8760123456,HCL Technologies,Pune,Maharashtra,India,Neha Gupta,DID_NOT_CONNECT,leads_on_demand,2025-07-25,Wrong department contact
+Mohan Das,mohan.das@rediffmail.com,7650123456,Glass Infosystems,Bangalore,Karnataka,India,Ravi Kumar,GOOD_LEAD_FOLLOW_UP,meridian_tower,2025-07-27,High priority lead
+Divya Prakash,divya.p@gmail.com,6540123456,ITC Limited,Kolkata,West Bengal,India,Amit Sharma,SALE_DONE,eden_park,2025-07-29,Implementation started
+Vivek Malhotra,vivek.m@company.in,,Larsen & Toubro,Delhi,Delhi,India,Neha Gupta,GOOD_LEAD_FOLLOW_UP,leads_on_demand,2025-07-31,Pilot project approved
+Ashok Pillai,ashok.p@gmail.com,9869012345,Tata Steel,Chennai,Tamil Nadu,India,Ravi Kumar,DID_NOT_CONNECT,meridian_tower,2025-08-02,Currently using competitor product
+Sunita Banerjee,sunita.b@outlook.com,8759012345,Adani Group,Ahmedabad,Gujarat,India,Amit Sharma,BAD_LEAD,eden_park,2025-08-04,Not a decision maker
+Ramesh Babu,ramesh.babu@yahoo.com,7649012345,Infosys Limited,Bangalore,Karnataka,India,Neha Gupta,GOOD_LEAD_FOLLOW_UP,leads_on_demand,2025-08-06,Strong interest in analytics module
